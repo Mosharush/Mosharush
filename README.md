@@ -6,18 +6,20 @@
 	<a href="https://www.facebook.com/mosharush"><img src="https://img.shields.io/badge/facebook--_.svg?label=FaceBook&logo=facebook&style=for-the-badge" alt="FaceBook"></a>
 </p>
 
-# Hi there 👋
+# Hi there
 
+
+---------
 ![Moshe Harush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mosharush&hide=["stars"]&show_icons=true) 
-<img align="right" src="https://raw.githubusercontent.com/Mosharush/Mosharush/master/Developer.gif" alt="Developer Animation" />
-
 -------
-
 📊 **Development breakdown**
-<!--START_SECTION-->
+
+<img align="right" style="float: right;" src="https://raw.githubusercontent.com/Mosharush/Mosharush/master/MyEmoji.gif" alt="Hello Animation" />
+
 ```text
 HTML/CSS            █████░░░░░░░░░░░░░░░░░░░░   15 
 NodeJS              ███████████░░░░░░░░░░░░░░   45 
 VueJS               ████████░░░░░░░░░░░░░░░░░   30
 PHP                 ██░░░░░░░░░░░░░░░░░░░░░░░   5
 Bash                ██░░░░░░░░░░░░░░░░░░░░░░░   5 
+```
