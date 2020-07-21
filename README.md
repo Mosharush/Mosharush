@@ -9,8 +9,8 @@
 # Hi there 👋
 
    
-![Moshe Harush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mosharush&hide=["stars"]&show_icons=true)
-
+![Moshe Harush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mosharush&hide=["stars"]&show_icons=true) 
+![Developer Animation](./Developer.gif)
 -------
 
 📊 **Development breakdown**
