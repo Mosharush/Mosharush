@@ -10,7 +10,7 @@
 
    
 ![Moshe Harush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mosharush&hide=["stars"]&show_icons=true) 
-![Developer Animation](./Developer.gif)
+![Developer Animation](https://raw.githubusercontent.com/Mosharush/Mosharush/master/Developer.gif)
 -------
 
 📊 **Development breakdown**
