@@ -14,8 +14,6 @@
 -------
 📊 **Development breakdown**
 
-<img align="right" style="float: right;" src="https://raw.githubusercontent.com/Mosharush/Mosharush/master/MyEmoji.gif" alt="Hello Animation" />
-
 ```text
 HTML/CSS            █████░░░░░░░░░░░░░░░░░░░░   15 
 NodeJS              ███████████░░░░░░░░░░░░░░   45 
